@@ -1,16 +1,8 @@
-# news_app
+# Tugas 10
+Nama  : Icha Nur Yuliarahma
+Kelas : IK-2B / 12
+NIM   : 3.34.21.1.13
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Hasil
+![Screenshot (82)](https://user-images.githubusercontent.com/114141633/201896693-a1d5bea4-b7ab-4467-8992-02b8dd124a4a.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/114141633/201896847-7a13d3a1-1943-426b-bb1d-97c3f6e21699.png)
